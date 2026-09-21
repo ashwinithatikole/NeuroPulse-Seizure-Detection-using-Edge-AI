@@ -48,8 +48,7 @@ The following metrics represent the finalized hardware implementation on a Xilin
 ---
 
 ## 🤝 Team Info
-**T.Ashwini
-R.Tanuja**
+**T.Ashwini**
 
 
 ---
